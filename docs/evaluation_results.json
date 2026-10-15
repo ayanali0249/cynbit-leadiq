@@ -6,8 +6,8 @@
   "rule_score": {
     "roc_auc": 0.772,
     "average_precision": 0.548,
-    "precision_at_top_20pct": 0.539,
-    "lift_at_top_20pct": 2.16
+    "precision_at_top_20pct": 0.533,
+    "lift_at_top_20pct": 2.13
   },
   "model_only": {
     "roc_auc": 0.78,
