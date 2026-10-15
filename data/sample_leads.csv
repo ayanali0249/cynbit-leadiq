@@ -1,0 +1,61 @@
+lead_id,name,title,company,email,company_size,industry,source,budget_inr,timeline,message
+L0001,Meera Iyer,CTO,Vertex Realty,meera.iyer@vertexrealty.example,51-200,Finance,referral,125000.0,3-6 months,Want a campaign across Meta and search.
+L0002,Anaya Sharma,VP Marketing,Cedar Finance,anaya.sharma@cedarfinance.example,201-1000,Finance,google_ads,240000.0,3-6 months,Our portal needs a new backend and API.
+L0003,Aarav Joshi,Founder,Orbit Foods,aarav.joshi@orbitfoods.example,51-200,Logistics,meta_ads,40000.0,3-6 months,Interested in a chatbot for customer support.
+L0004,Isha Reddy,IT Manager,Vertex Realty,isha.reddy@vertexrealty.example,1-10,Logistics,linkedin,30000.0,1-3 months,"Interested in a chatbot for customer support. This is urgent, we need a pilot asap."
+L0005,Kabir Singh,CEO,Greenline Energy,kabir.singh@greenlineenergy.example,11-50,Manufacturing,google_ads,135000.0,1-3 months,Want a campaign across Meta and search.
+L0006,Dev Verma,Executive Assistant,Northwind Retail,dev.verma@gmail.com,201-1000,Media,website_form,225000.0,1-3 months,"We want to automate invoice data entry with an LLM. Budget approved, we want to go live next month."
+L0007,Tara Sharma,Associate,Kite Media,tara.sharma@kitemedia.example,1-10,Logistics,website_form,45000.0,1-3 months,Do you run a bootcamp for engineering students? Please share a quote and pricing. I am a student working on a college project.
+L0008,Vikram Sharma,Intern,Kite Media,vikram.sharma@gmail.com,201-1000,Healthcare,website_form,190000.0,immediate,Looking for an AI agent to qualify inbound enquiries.
+L0009,Kabir Reddy,Associate,Vertex Realty,kabir.reddy@vertexrealty.example,51-200,Media,website_form,335000.0,exploring,We want to automate invoice data entry with an LLM.
+L0010,Neha Mehta,Analyst,Kite Media,neha.mehta@kitemedia.example,11-50,Real estate,website_form,70000.0,1-3 months,"Interested in a chatbot for customer support. Budget approved, we want to go live next month."
+L0011,Neha Iyer,Associate,Lumen Health,neha.iyer@lumenhealth.example,11-50,Travel,cold_outreach,15000.0,3-6 months,Interested in a chatbot for customer support.
+L0012,Aarav Joshi,Marketing Manager,Orbit Foods,aarav.joshi@orbitfoods.example,1-10,Travel,linkedin,25000.0,1-3 months,"Looking for an AI agent to qualify inbound enquiries. Budget approved, we want to go live next month."
+L0013,Dev Joshi,Executive Assistant,Kite Media,dev.joshi@kitemedia.example,1-10,Food & Beverage,website_form,10000.0,exploring,Want a campaign across Meta and search.
+L0014,Isha Iyer,IT Manager,Northwind Retail,isha.iyer@gmail.com,11-50,Real estate,website_form,10000.0,3-6 months,Do you run a bootcamp for engineering students?
+L0015,Sana Verma,Associate,Orbit Foods,sana.verma@gmail.com,11-50,Travel,cold_outreach,50000.0,immediate,Do you run a bootcamp for engineering students? We have an RFP and the deadline is close. Looking for an internship or a job.
+L0016,Anaya Reddy,CEO,Sunrise Textiles,anaya.reddy@sunrisetextiles.example,11-50,Manufacturing,event,215000.0,exploring,Planning a mobile app for our customers.
+L0017,Tara Mehta,Student,Pixel Forge,tara.mehta@gmail.com,1000+,Travel,cold_outreach,460000.0,exploring,Our cloud costs keep rising and we need an audit. Is there anything for free?
+L0018,Aarav Gupta,Engineering Lead,Kite Media,aarav.gupta@kitemedia.example,51-200,Real estate,linkedin,50000.0,exploring,We need a web app for managing dealers.
+L0019,Diya Kapoor,Founder,Greenline Energy,diya.kapoor@greenlineenergy.example,51-200,Retail,linkedin,65000.0,3-6 months,Do you run a bootcamp for engineering students?
+L0020,Arjun Joshi,Marketing Manager,Northwind Retail,arjun.joshi@northwindretail.example,1000+,Travel,cold_outreach,1095000.0,immediate,We want to automate invoice data entry with an LLM.
+L0021,Anaya Das,Founder,Sunrise Textiles,anaya.das@sunrisetextiles.example,1-10,Manufacturing,google_ads,45000.0,1-3 months,Looking for help with Azure and devops. Can you send a proposal with scope?
+L0022,Isha Reddy,Head of Digital,Atlas Learning,isha.reddy@atlaslearning.example,1-10,Finance,linkedin,40000.0,exploring,Looking for help with Azure and devops.
+L0023,Vikram Nair,Product Manager,Northwind Retail,vikram.nair@northwindretail.example,51-200,Manufacturing,event,130000.0,3-6 months,Our portal needs a new backend and API.
+L0024,Diya Joshi,Intern,Kite Media,diya.joshi@kitemedia.example,1-10,Media,cold_outreach,40000.0,1-3 months,Looking for an AI agent to qualify inbound enquiries. Can you send a proposal with scope?
+L0025,Arjun Joshi,Engineering Lead,Atlas Learning,arjun.joshi@atlaslearning.example,1-10,Food & Beverage,event,75000.0,exploring,Looking for help with Azure and devops. We have an RFP and the deadline is close.
+L0026,Meera Nair,Associate,Greenline Energy,meera.nair@gmail.com,11-50,Food & Beverage,cold_outreach,115000.0,3-6 months,"Our portal needs a new backend and API. Budget approved, we want to go live next month."
+L0027,Karan Das,CEO,Cedar Finance,karan.das@cedarfinance.example,11-50,Manufacturing,referral,85000.0,3-6 months,We need SEO and Google ads for a product launch. I am a student working on a college project.
+L0028,Meera Khan,Founder,Greenline Energy,meera.khan@gmail.com,201-1000,Media,event,105000.0,1-3 months,Planning a mobile app for our customers.
+L0029,Dev Joshi,CEO,Harbor Travel,dev.joshi@harbortravel.example,51-200,Travel,linkedin,200000.0,1-3 months,Planning a mobile app for our customers. We have an RFP and the deadline is close.
+L0030,Dev Singh,Associate,Northwind Retail,dev.singh@northwindretail.example,11-50,Healthcare,cold_outreach,40000.0,1-3 months,Looking for a funnel and CRM setup for lead generation. We have an RFP and the deadline is close.
+L0031,Isha Gupta,Engineering Lead,Cedar Finance,isha.gupta@cedarfinance.example,11-50,Logistics,website_form,175000.0,immediate,Looking for an AI agent to qualify inbound enquiries. Please share a quote and pricing.
+L0032,Meera Sharma,IT Manager,Kite Media,meera.sharma@kitemedia.example,1-10,Travel,meta_ads,15000.0,exploring,"We need a web app for managing dealers. Budget approved, we want to go live next month."
+L0033,Vikram Reddy,Student,Sunrise Textiles,vikram.reddy@gmail.com,1-10,Real estate,google_ads,35000.0,3-6 months,We need a web app for managing dealers.
+L0034,Rohan Gupta,Product Manager,Atlas Learning,rohan.gupta@atlaslearning.example,1-10,Retail,google_ads,40000.0,3-6 months,"Looking for a funnel and CRM setup for lead generation. Budget approved, we want to go live next month."
+L0035,Anaya Sharma,Head of Digital,Bluepeak Logistics,anaya.sharma@bluepeaklogistics.example,51-200,Food & Beverage,google_ads,45000.0,1-3 months,Looking for help with Azure and devops. Please share a quote and pricing.
+L0036,Riya Kapoor,Product Manager,Lumen Health,riya.kapoor@gmail.com,1-10,Logistics,cold_outreach,160000.0,exploring,We want to automate invoice data entry with an LLM. Just curious what you do.
+L0037,Kabir Sharma,CTO,Orbit Foods,kabir.sharma@orbitfoods.example,11-50,Travel,website_form,235000.0,immediate,"Looking for an AI agent to qualify inbound enquiries. This is urgent, we need a pilot asap."
+L0038,Nikhil Verma,Director of Operations,Atlas Learning,nikhil.verma@atlaslearning.example,1-10,Food & Beverage,event,30000.0,1-3 months,Our cloud costs keep rising and we need an audit. Please share a quote and pricing.
+L0039,Dev Kapoor,Intern,Lumen Health,dev.kapoor@lumenhealth.example,201-1000,Education,website_form,450000.0,immediate,We need SEO and Google ads for a product launch. Please share a quote and pricing. Looking for an internship or a job.
+L0040,Karan Kapoor,Head of Digital,Kite Media,karan.kapoor@kitemedia.example,1-10,Energy,referral,55000.0,immediate,"Our cloud costs keep rising and we need an audit. This is urgent, we need a pilot asap."
+L0041,Dev Mehta,VP Marketing,Cedar Finance,dev.mehta@gmail.com,1-10,Manufacturing,website_form,10000.0,exploring,Looking for a funnel and CRM setup for lead generation.
+L0042,Neha Joshi,Executive Assistant,Bluepeak Logistics,neha.joshi@gmail.com,201-1000,Energy,cold_outreach,295000.0,3-6 months,"Looking for an AI agent to qualify inbound enquiries. Budget approved, we want to go live next month."
+L0043,Karan Sharma,IT Manager,Orbit Foods,karan.sharma@orbitfoods.example,11-50,Real estate,meta_ads,70000.0,1-3 months,Looking for help with Azure and devops. Can you send a proposal with scope? Just curious what you do.
+L0044,Meera Sharma,IT Manager,Bluepeak Logistics,meera.sharma@bluepeaklogistics.example,201-1000,Healthcare,referral,260000.0,3-6 months,"Our cloud costs keep rising and we need an audit. Budget approved, we want to go live next month."
+L0045,Tara Reddy,Engineering Lead,Pixel Forge,tara.reddy@pixelforge.example,51-200,Logistics,google_ads,55000.0,exploring,We want to automate invoice data entry with an LLM. Is there anything for free?
+L0046,Riya Singh,Executive Assistant,Bluepeak Logistics,riya.singh@gmail.com,51-200,Media,linkedin,105000.0,1-3 months,"Want a campaign across Meta and search. This is urgent, we need a pilot asap."
+L0047,Tara Das,CTO,Kite Media,tara.das@kitemedia.example,1-10,Education,linkedin,35000.0,3-6 months,We want to move our legacy system to AWS.
+L0048,Kabir Reddy,IT Manager,Bluepeak Logistics,kabir.reddy@gmail.com,11-50,Travel,google_ads,190000.0,3-6 months,Interested in your training and certification course.
+L0049,Anaya Khan,Head of Digital,Vertex Realty,anaya.khan@vertexrealty.example,11-50,Healthcare,website_form,95000.0,1-3 months,"Planning a mobile app for our customers. This is urgent, we need a pilot asap. I am a student working on a college project."
+L0050,Sana Khan,VP Marketing,Lumen Health,sana.khan@gmail.com,201-1000,Energy,cold_outreach,240000.0,3-6 months,"We need a web app for managing dealers. Budget approved, we want to go live next month."
+L0051,Rohan Sharma,Marketing Manager,Greenline Energy,rohan.sharma@greenlineenergy.example,11-50,Travel,linkedin,250000.0,exploring,Looking for an AI agent to qualify inbound enquiries.
+L0052,Dev Mehta,CEO,Northwind Retail,dev.mehta@northwindretail.example,11-50,Finance,google_ads,45000.0,exploring,Want a campaign across Meta and search. Can you send a proposal with scope?
+L0053,Sana Joshi,CTO,Sunrise Textiles,sana.joshi@sunrisetextiles.example,1-10,Real estate,google_ads,30000.0,1-3 months,We need SEO and Google ads for a product launch. Can you send a proposal with scope?
+L0054,Isha Mehta,Founder,Northwind Retail,isha.mehta@northwindretail.example,11-50,Energy,website_form,15000.0,exploring,We want to automate invoice data entry with an LLM.
+L0055,Sana Singh,Intern,Atlas Learning,sana.singh@gmail.com,11-50,Energy,referral,255000.0,immediate,"Our cloud costs keep rising and we need an audit. This is urgent, we need a pilot asap."
+L0056,Anaya Iyer,Associate,Pixel Forge,anaya.iyer@gmail.com,1-10,Logistics,event,85000.0,exploring,Looking for an AI agent to qualify inbound enquiries.
+L0057,Riya Singh,CTO,Vertex Realty,riya.singh@vertexrealty.example,201-1000,Education,meta_ads,505000.0,exploring,Interested in a chatbot for customer support.
+L0058,Kabir Singh,Student,Bluepeak Logistics,kabir.singh@bluepeaklogistics.example,11-50,Manufacturing,meta_ads,125000.0,immediate,"Interested in your training and certification course. Budget approved, we want to go live next month. Just curious what you do."
+L0059,Kabir Das,IT Manager,Harbor Travel,kabir.das@harbortravel.example,1000+,Logistics,google_ads,485000.0,1-3 months,We want to automate invoice data entry with an LLM. We have an RFP and the deadline is close. Looking for an internship or a job.
+L0060,Kabir Nair,CTO,Kite Media,kabir.nair@kitemedia.example,11-50,Travel,referral,85000.0,exploring,Planning a mobile app for our customers. Can you send a proposal with scope?

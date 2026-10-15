@@ -1,0 +1,39 @@
+{
+  "n_leads": 3000,
+  "n_train": 2100,
+  "n_test": 900,
+  "base_conversion_rate": 0.25,
+  "rule_score": {
+    "roc_auc": 0.772,
+    "average_precision": 0.548,
+    "precision_at_top_20pct": 0.539,
+    "lift_at_top_20pct": 2.16
+  },
+  "model_only": {
+    "roc_auc": 0.78,
+    "average_precision": 0.576,
+    "precision_at_top_20pct": 0.556,
+    "lift_at_top_20pct": 2.22
+  },
+  "blended_final_score": {
+    "roc_auc": 0.78,
+    "average_precision": 0.576,
+    "precision_at_top_20pct": 0.544,
+    "lift_at_top_20pct": 2.18
+  },
+  "tiers_on_blended_score": {
+    "Hot": {
+      "leads": 78,
+      "conversion_rate": 0.744
+    },
+    "Warm": {
+      "leads": 320,
+      "conversion_rate": 0.359
+    },
+    "Cold": {
+      "leads": 502,
+      "conversion_rate": 0.104
+    }
+  },
+  "caveat": "Computed on synthetic leads whose labels come from an assumed process. It validates the pipeline, not real-world accuracy."
+}
